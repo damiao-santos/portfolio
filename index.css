@@ -107,7 +107,7 @@
     background-image: linear-gradient(62deg, white 0%, #181719 100%);
   }
   #welcome-section > p {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: 200;
     font-style: italic;
     color: var(--main-red);
